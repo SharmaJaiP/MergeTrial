@@ -1,2 +1,5 @@
 x 
 2nd line
+Changes while merging
+Editing in Branch1
+
